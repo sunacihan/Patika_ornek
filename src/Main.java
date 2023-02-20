@@ -34,6 +34,8 @@ public class Main {
         System.out.print("Üçgenin 1. kenarını giriniz.");
         int kenar3=input.nextInt();
 
+        System.out.println("deneme");
+
 
     }
 }
